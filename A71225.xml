@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Rome to a friend in London in relation to the Jesuits executed, and those that are to be executed in the countryes ...</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71225</idno>
+            <idno type="STC">Wing W122A</idno>
+            <idno type="STC">Wing L1498</idno>
+            <idno type="STC">ESTC R6863</idno>
+            <idno type="EEBO-CITATION">11966668</idno>
+            <idno type="OCLC">ocm 11966668</idno>
+            <idno type="VID">51741</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71225)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51741)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 322:12, 829:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Rome to a friend in London in relation to the Jesuits executed, and those that are to be executed in the countryes ...</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Attributed to T.W. Cf. BM.</note>
+                  <note>Caption title.</note>
+                  <note>Dated and signed at end: Rome, June 10. 79. Stilo novo. T.W.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:51741:1" rendition="simple:additions"/>
+            <head>A LETTER FROM ROME To a Friend IN LONDON, Relation to the Jeſuits Executed, and thoſe that are to be Executed in the Countryes.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>WIthout other Apollogie, I had the happineſs to receive yours: of the 5th Inſtant, wherein I finde the Jeſuits laſt Speeches have made ſome impreſſions upon the mindes of ſome friends of yours; I take it from that paſſage in your Letter, that you could <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I would ſend you a ſhort and plain account of that diſcourſe I once had <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith you in <hi>London,</hi> about the reaſons and grounds that made Jeſuits and Pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> generally ſo deſperate, to call God and Angels to witneſs, and take it up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> their Salvation at their Executions, that they are as innocent as the Child <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> born, when nothing is plainer then that they are really guilty of thoſe Crimes they then deny.</p>
+            <p>If I forget nor, the diſcourſe was particularly occaſioned by that Letter pub<g ref="char:EOLhyphen"/>liſhed in print, to the Right Honourable the Earl of <hi>Eſſex;</hi> concerning <hi>John <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> at <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ory,</hi> a Papiſt, condemned for Burglary at L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Aſſizes, 1672. by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Her<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Dublin;</hi> He was executed denying the fact, but the rope breaking <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, confeſt himſelf guilty of the fact he denied before, and that he <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on from a Prieſt, who bid him never doubt his ſalvation, if he did not diſcover his Confederates: adding this reaſon to it, that the fact was not admitted againſt Gods people the Papiſts.</p>
+            <pb n="2" facs="tcp:51741:2"/>
+            <p>Afterwards we had ſome digreſſions about the Lyes, Perjuries and E<g ref="char:EOLhyphen"/>quivocations, and dying oaths of Father <hi>Garnet</hi> the provincial of the Jeſuit, <hi>Treſham, Treſhmond</hi> and other Jeſuits executed for the Gun-powder treaſon, whoſe meaſures undoubtedly, Father <hi>Whitebread, Gavan, Harcote, Turner, Fenwick,</hi> and <hi>Langhorn</hi> have exactly followed in this preſent Plot.</p>
+            <p>
+               <hi>Sir,</hi> Were your friends here in <hi>Rome,</hi> they would be quickly convinced; the Prieſts and people here trouble themſelves no farther then to get Indulgences to ſin, pardons, undergo pennances, obtain abſolutions, or either to ſay Maſ<g ref="char:EOLhyphen"/>ſes for the dead or pray to them, Religion here conſiſts in theſe, Heaven and Purgatorie they ſeem ſure of, none ſeem to be in danger of Hell, becauſe the Prieſts can keep them out. If not, the whole Church will engage for it for Money.</p>
+            <p>Whatever this Church of <hi>Rome</hi> has been formerly, it is ſupplied now with doting Pope, Cardinals, and Jeſuits, who are only States-men and Politicians, in the diſguiſe of Church-men, for in truth here is no guiſe or appearance of Religion at all.</p>
+            <p>Not only here in <hi>Rome,</hi> but in all other Popiſh Dominions, Ruffians, and Aſſaſſines are hired for a ſmall matter to ſtab, poyſon, or murther any perſon, who preſently run to the Prieſts who will abſolve and protect them; and for money pray for the Soul of the murthered, that it may not go to hell, theſe are charitable.</p>
+            <p>But not to detain you longer, from having your wiſh, the main ground I inſiſted upon was their ignorance of the scriptures; for if that chief end of their learned Church-men were to withdraw men from the love and ſtudy of the Scriptures, it is an invincible demonſtration, that the Scriptures are not their rule in living or dying, but they confide in the traditions of men.</p>
+            <p>That it may be manifeſt, what vallue the Scriptures are with the Church of <hi>Rome,</hi> theſe following inſtances Collected from the Books of their learned Guides will confirm, then judge whether the preſent Roman Catholick Re<g ref="char:EOLhyphen"/>ligion, be of God or Man, <hi>&amp;c.</hi>
+            </p>
+            <p>When <hi>Brentius,</hi> Objected in the Confeſſion of <hi>Wittenberge,</hi> that one <hi>Her<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> a learned Papiſt, had not been aſhamed to ſay in publick, that the Scriptures were of no greater Eſtimation then <hi>Aeſops Fables:</hi> but for the Teſtimony of the Church, this poſition pleaſed Cardinal <hi>Hoſius</hi> ſo well, that he defended <hi>Herman,</hi> and commended his Speech, for ſays <hi>Hoſius</hi> who was a Biſhop alſo, The Scriptures would be of as little authority, but as the Church owns them; moſt of their eminent Writers ſince <hi>Luther,</hi> are of the ſame Opinion.</p>
+            <p>
+               <hi>Melchior Canus,</hi> in his 7th. Chapter of his places of Divinity, terms the Scriptures dumb and deaf judges, and that the Pope by his prerogative may re<g ref="char:EOLhyphen"/>ject them.</p>
+            <p>Pope <hi>Leo</hi> the 10th. will not be behind hand with <hi>Canus,</hi> for diſcourſing with Cardinal <hi>Bembus</hi> about the Goſpel, in contempt ſaid, how profitable has this Fable of Chriſt been to us in <hi>Rome.</hi>
+            </p>
+            <p>
+               <hi>Hoſius</hi> in his 4th. Book againſt <hi>Brentius,</hi> affirms that the Scriptures when al<g ref="char:EOLhyphen"/>leadged by Papiſts is the Word of God; but when Proteſtants alledge it is the expreſs word of the devil.</p>
+            <pb n="3" facs="tcp:51741:2"/>
+            <p>As they have Printed here in <hi>Rome, &amp;c.</hi> that there is no Plot, that there was never ſuch a Man as Sir <hi>Edmunbury Godfrey,</hi> only a ſtory raiſed from the Town in <hi>Norfolk,</hi> call'd St. <hi>Edmunds-bury,</hi> ſo they deal by the Scriptures, making the ſimple people here believe, that the Religion of the Proteſtants in <hi>England</hi> lieth in Rags and Beaſts skins; becauſe our Bibles are bound up in Leather.</p>
+            <p>The ſame Cardinal in his triple Dialogue, and Cardinal <hi>Cuſanus</hi> in his ſecond Epiſtle to the <hi>Bohemians,</hi> Without bluſhing tells us, that if any one hath the Expoſition of the Church of <hi>Rome,</hi> though he underſtand it not, (but be writ<g ref="char:EOLhyphen"/>ten for them as the Jeſuits laſt Speeches,) nay though he do not know whether it be agreeable to the Scripture or his own minde; (as <hi>Hills</hi> paper found in his pocket at Execution,) yet he has the very word of God, which will ſave him; but that you may better underſtand the Cardinals meanings, They both agree that the Scriptures are to be expounded by this Church, according to their pre<g ref="char:EOLhyphen"/>ſent occaſion, and that Obedience is to be yeilded, to that interpretation with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> queſtioning, as an Ox or Aſs obeys his Maſter, and ſo dye like beaſts.</p>
+            <p>Now whether Father <hi>Garnet,</hi> and his aſſociates have not left an exact copy, for his ſucceſſor Father <hi>Whitebread,</hi> and his accomplices lately executed, or for Mr. <hi>Langhorn</hi> or any other Popiſh Traitor to follow; is left to the thoughts of your friends, for they have heard it.</p>
+            <p>Father <hi>Garnet,</hi> being asked before the Lords Commiſſioners in the <hi>Tower,</hi> whether <hi>Hall</hi> the Jeſuit and he had any conference together; he ſwore upon his Salvation, ſeconding it with Imprecations and Oaths, that he did not Equivocate, then denied again and again, that he had no diſcourſe with <hi>Hall,</hi> afterwards when he knew that <hi>Hall</hi> had confeſſed it, <hi>Garnet</hi> owned he had of<g ref="char:EOLhyphen"/>fended, if Equivocation did not help him.</p>
+            <p>He ſwore upon Oath, he had neither writ nor ſent to <hi>Treſmond</hi> the Jeſuit, which he knew to be falſe, his own Letters being intercepted, they diſpro<g ref="char:EOLhyphen"/>ved him.</p>
+            <p>
+               <hi>Treſham</hi> one of the Powder-Treaſon Traitors, did confeſs, that <hi>Garnet</hi> did know of the Treaſon, but yet three or four hours before his death, by his wifes Importunity, he ſet it down in his own hand writing, with an Oath and pro<g ref="char:EOLhyphen"/>teſtation upon his salvation, that he had not ſeen <hi>Garnet</hi> in ſixteen years before at leaſt, and ſo dyed denying his firſt Confeſſion; not long after his Oath and proteſtation proved falſe, beſides <hi>Garnet</hi> himſelf confeſſed, that he had ſeen <hi>Treſham</hi> many times within that ſpace.</p>
+            <p>Whereupon being demanded, what he thought of <hi>Treſhams</hi> dying Oath and proteſtation, <hi>Garnet</hi> gave his opinion under his own hand, that it was lawfull to imitate <hi>Treſhams</hi> equivocating at the very point of death; with ſome reaſons for it, that it was lawfull in Life time, upon ſome neceſſity, or to free a friend from danger, and ſince lawfull in life, then as lawfull in a dying man, <hi>Cauſabon, ibid. pag.</hi> 202.</p>
+            <p>Much more is upon Record of this <hi>Garnet,</hi> who uſed to write his anſwers and denials with his own hand: for the ſame reaſon the five Jeſuits and <hi>Lang<g ref="char:EOLhyphen"/>horn</hi> has had their speeches written, that they might not be liable to miſcon<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>In all this Father <hi>Garnet,</hi> acted and wrote nothing contrary to the ſence of
+<pb n="4" facs="tcp:51741:3"/>the Roman Catholick Writers: but Father <hi>Gavan</hi> in affirming only <hi>Marians</hi> was for a little King killing; this contradicts hundreds of their Authors, who expreſly write upon King-killing; that the whole papall World are the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſuits advocates, and truſt their own ſouls with them, and the Education of their Sons: Father <hi>Gavan</hi> forgot that <hi>France, Venice,</hi> and other parts has expell'd the Jeſuits, for their Conſpiracys or Murthers.</p>
+            <p>Proteſtants may be ſo Charitable to think men that are Chriſtians as the Pa<g ref="char:EOLhyphen"/>piſts are, durſt not die denying the truth at the laſt moment of mortallity, but the premiſe, conſidered, they will find cauſe to conclude otherwiſe.</p>
+            <p>True, there is great cauſe to pitty the people deluded by theſe Prieſts, poor ſouls they ſcarce know more of the Bible, then what their Prieſts tell them, that it is an Heretical book only in uſe with the Proteſtants which they call Hereticks. However to ſtop the mouths of ſome of their people, they have a Bible but of the Popes own making,</p>
+            <p>'Tis moſt certain, the Prieſts Orders and Abſolutions are of more Authori<g ref="char:EOLhyphen"/>ty with ſuch ignorant people then the Scriptures, which is confirmed by Mr. <hi>Prance</hi> in his narrative, who affirms he would have dyed and have denied the Murther of Sir <hi>Edmund-Bury Godfry,</hi> if he had had the abſolution of a Prieſt, then he had held himſelf as innocent as the Child unborn.</p>
+            <p>Not only the people but the prieſts alſo are generally a ignorant of the true Scriptures. <hi>Luther</hi> and others have affirmed of themſelves, that they have been Popiſh prieſts many years, and never read ſo much as a leaf of the Bible, the Popes Canons being all their Scriptures; One Canon was thus, that if the Popes ſhould lead themſelves and others to Hell by heaps, yet none muſt be ſo preſumptuous to ask them why they do ſo.</p>
+            <p>
+               <hi>Paulus Emilius</hi> in his 7 books affirms, that the Pope ſuffer'd the Embaſſadors of <hi>Cicilia,</hi> to proſtrate themſelves before him, and ſay unto him, O thou which takeſt away the ſins of the whole World have mercy upon us: no wonder then, that thoſe that really believe in the Pope, and the Prieſts abſolutions, ſhould die and think themſelves happie, as <hi>Langhorn,</hi> and other Traytors, to be whipt, and ſent with the Popes paſſe into the other World,</p>
+            <p>
+               <hi>Sir, I fear I have been too tedious, but conſider it is my care to omit nothing that may ſerve you or ſatisfie your friends, by this Letter from your Friend,</hi>
+            </p>
+            <closer>
+               <dateline>Rome, <date>
+                     <hi>June</hi> 10. 79. <hi>Stilo Novo.</hi>
+                  </date>
+               </dateline>
+               <signed>T. W.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
